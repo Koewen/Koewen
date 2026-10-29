@@ -1,32 +1,14 @@
-# 你好，我是…… 👋
-一个还在写代码的人。写过不少行代码之后，慢慢意识到：真正值得长期经营和打磨的，其实是生活本身。✨
----
-## 关于生活 🌱
+### ✨ 关于我
+![GitHub followers](https://img.shields.io/github/followers/Koewen?style=social) ![GitHub stars](https://img.shields.io/github/stars/Koewen?style=social)
+> 慢慢写代码，慢慢生活。南京。
 
-- 🛠️ **喜欢动手折腾**：从软件到家里的电器，能自己修好的，绝不轻易找别人。
-- ☕ **喝茶也喝咖啡**：具体喝哪个，取决于当天想慢下来还是想清醒一点。
-- 🚶 **闲下来爱散步**：漫无目的那种。很多想不清楚的事，走着走着就自己有了答案。
-- 🪴 **养了几盆绿植**：养死过不少，也活下来几盆——这大概就是生活与代码的区别：不一定能调试，但得接受结果。
----
-## 一点爱好 🎨
+### 🛠 开发环境
+![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Python](https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQLite](https://img.shields.io/badge/sqlite-%23003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailchat](https://img.shields.io/badge/Tailchat-%236B8AFD?style=for-the-badge&logo=tailchat&logoColor=white)
 
-- 📷 **摄影**：不爱摆拍，更喜欢随手记录日常里那些不经意的瞬间。
-- 🎧 **音乐**：写代码时习惯听点没歌词的；偶尔也研究声学设备，享受把声音调到舒服的过程。
-- 🎮 **游戏**：偏单机，慢慢玩，不肝不氪，图个放松。
----
-## 感悟 💭
-
-- 💾 代码可以回滚，生活不行。所以做选择时多想一步，别急着"提交"。
-- ✂️ 少即是多。无论代码还是生活，删掉多余的东西，往往比不断添加更高级。
-- 🤝 对自己诚实，对他人友善，剩下的，慢慢来。
----
-## 荣誉 🏆
-
-这里不装深沉，直接放我最大的的三项"荣誉"——都是集体奖，属于全体网民、全体中国人、所有低碳用户，我作为参与者随大流沾个光：
-- 🏆 **美国《时代周刊》2006 年度人物 —— "You"（你）**
-  只要当年上过网，你就是名义上的年度人物。我上了，所以我算。
-- 🏆 **央视《感动中国》2008 年度特别奖 —— 全体中国人**
-  那年一起经历了冰雪、地震、奥运，坚韧与团结是集体的，我只是其中之一。
-- 🏆 **联合国"地球卫士奖"2019"激励与行动奖" —— 蚂蚁森林项目**
-  奖项属于项目及背后数亿低碳用户，我偷偷种过树，也算一份。
-> 😄 调侃归调侃，生活本身，还在慢慢学。
+### 📊 访客
+![Visitor Count](https://profile-counter.glitch.me/Koewen/count.svg)
