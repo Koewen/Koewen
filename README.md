@@ -35,14 +35,8 @@
 
 ### 🚀 正在做的事
 
-**🧊 [tailchat-plugin-aurora](https://github.com/Koewen/tailchat-plugin-aurora)** &nbsp; ![开发中](https://img.shields.io/badge/%E2%97%8F-%E5%BC%80%E5%8F%91%E4%B8%AD-6B8AFD?style=flat-square)
-
-<sub>Tailchat 流光玻璃主题插件 —— 玻璃拟态面板 + 极光流动背景，让聊天窗口自己发光</sub>
-
-`Glassmorphism` · `极光渐变` · `主题引擎`
-
-**🌐 [translate-web](https://github.com/Koewen/translate-web)** &nbsp; ![迭代中](https://img.shields.io/badge/%E2%97%8F-%E8%BF%AD%E4%BB%A3%E4%B8%AD-8B5CF6?style=flat-square)
-
-<sub>本地翻译工作台 —— 纯内网运行，文本不出机器的离线优先翻译台</sub>
-
-`Vue3` · `Element Plus` · `Python` · `SQLite`
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=%F0%9F%94%A8%20%E6%AD%A3%E5%9C%A8%E6%8A%98%E8%85%BE%E6%96%B0%E4%B8%9C%E8%A5%BF%E2%80%A6;%F0%9F%93%9A%20%E9%80%A0%E8%BD%AE%E5%AD%90%E4%B8%AD%E2%80%A6;%F0%9F%8C%99%20%E7%99%BD%E5%A4%A9%E6%90%AC%E7%A0%96%EF%BC%8C%E6%99%9A%E4%B8%8A%E5%86%99%E7%A0%81&font=Fira+Code&center=true&width=420&height=42&duration=2200&pause=900&color=6B8AFD" />
+  <br>
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E2%98%95%20%E5%92%96%E5%95%A1%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E4%B8%AD%E2%80%A6;%F0%9F%9A%80%20%E6%83%B3%E6%B3%95%E5%8F%98%E6%88%90%E4%BB%A3%E7%A0%81%E2%80%A6;%E2%9C%A8%20%E6%85%A2%E6%85%A2%E6%9D%A5%EF%BC%8C%E6%AF%94%E8%BE%83%E5%BF%AB&font=Fira+Code&center=true&width=420&height=42&duration=2600&pause=1100&color=8B5CF6" />
+</p>
