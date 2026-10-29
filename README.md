@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=欢迎来到我的%20GitHub%20%F0%9F%91%8B;%E6%85%A2%E6%85%A2%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%85%A2%E6%85%A2%E7%94%9F%E6%B4%BB&font=Fira+Code&center=true&width=400&height=45&duration=2500&pause=1000&color=6B8AFD" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0%E6%88%91%E7%9A%84%20GitHub%20%F0%9F%91%8B;%E6%85%A2%E6%85%A2%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E6%85%A2%E6%85%A2%E7%94%9F%E6%B4%BB&font=Fira+Code&center=true&width=400&height=45&duration=2500&pause=1000&color=6B8AFD" />
 </p>
 
 <p align="center">
@@ -31,9 +31,18 @@
   <img src="https://raw.githubusercontent.com/Koewen/Koewen/output/github-contribution-grid-snake.svg" />
 </p>
 
-### 🎯 正在做的事
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailchat-流光玻璃主题-6B8AFD?style=flat-square&logo=github" />
-  <img src="https://img.shields.io/badge/本地翻译工作台-Vue3%20%2B%20Python-8B5CF6?style=flat-square&logo=translate" />
-</p>
+### 🚀 正在做的事
+
+**🧊 [tailchat-plugin-aurora](https://github.com/Koewen/tailchat-plugin-aurora)** &nbsp; ![开发中](https://img.shields.io/badge/%E2%97%8F-%E5%BC%80%E5%8F%91%E4%B8%AD-6B8AFD?style=flat-square)
+
+<sub>Tailchat 流光玻璃主题插件 —— 玻璃拟态面板 + 极光流动背景，让聊天窗口自己发光</sub>
+
+`Glassmorphism` · `极光渐变` · `主题引擎`
+
+**🌐 [translate-web](https://github.com/Koewen/translate-web)** &nbsp; ![迭代中](https://img.shields.io/badge/%E2%97%8F-%E8%BF%AD%E4%BB%A3%E4%B8%AD-8B5CF6?style=flat-square)
+
+<sub>本地翻译工作台 —— 纯内网运行，文本不出机器的离线优先翻译台</sub>
+
+`Vue3` · `Element Plus` · `Python` · `SQLite`
