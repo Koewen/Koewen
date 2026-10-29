@@ -15,6 +15,12 @@
 
 ---
 
+
+### 🐍 贡献动画
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Koewen/Koewen/output/github-contribution-grid-snake.svg" width="450" />
+</p>
 ### 🛠 开发环境
 
 <p align="center">
